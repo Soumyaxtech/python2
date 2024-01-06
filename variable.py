@@ -1,7 +1,7 @@
-firstname = "Tony"
-lastname = "Stark"
-age = 51
-is_genius = True
+firstname = "Soumyajit"
+lastname = "Koley"
+nickname = "babai"
+age = 22
 print(firstname + " " + lastname)
+print(nickname)
 print("age is " + str(age) )
-print(is_genius)
