@@ -1,0 +1,11 @@
+i = input("enter 1st number ")
+j = input("enter 2nd number ")
+x = int(i)
+y = int(j)
+print(x+y)        # ARITHMETIC OPERATIONS
+print(x-y)
+print(x*y)
+print(x/y)
+print(x//y)
+print(x % y)
+print(x**y)
