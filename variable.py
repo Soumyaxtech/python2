@@ -30,5 +30,5 @@ num1 = input("enter 1st number ")
 num2 = input("enter 2nd number ")
 sum1 = int(num1) + int(num2)
 sum2 = num1+num2
-print(sum1) # take as int for typecasting so ans 23+67=90
-print(sum2) # take value as string so ans 2367
+print(sum1)    # take as int for typecasting so ans 23+67=90
+print(sum2)    # take value as string so ans 2367
