@@ -10,3 +10,5 @@ num = int(input("enter number : "))
 i = 1
 for i in range(num):
     print(i+1)
+
+
