@@ -9,3 +9,7 @@ marks.append(99)  # TO INSERT ANYTHING AT THE END OF LIST
 print(marks)
 marks.insert(0,85) # TO INSERT ANYWHERE IN LIST FIRST WE GIVE INDEX THEN MARKS
 print(marks)
+print(80 in marks) # TO SEE IF THE ELEMENT PRESENT IN LIST OR NOT IF PRESENT TRUE IF NOT FALSE
+num = int(len(marks)) # TO GET LENGTH OF LIST
+print(num)
+print(len(marks)) # another to print length of list
