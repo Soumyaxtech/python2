@@ -21,3 +21,8 @@ num1=int(input("enter the first number "))
 num2=int(input("enter the second number "))
 sum1=sum(num1,num2)
 print("the sum of ",num1,"and",num2,"is",int(sum1))
+
+
+#  Arguments in python are two types
+# ******** NAMED ARGUMENTS
+# ******** POSITIONAL ARGUMENTS
