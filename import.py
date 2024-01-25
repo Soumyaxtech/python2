@@ -1,3 +1,4 @@
 import area
 print("i am in import.py")
-area.calculateArea(5,10)
+a1=area.calculateArea(5,10)
+print(a1)
