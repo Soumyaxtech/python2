@@ -10,4 +10,4 @@ print("the ans is", z)
 #     print("typeerror occur")  #except Exception as e
                                # print("error is ",type(e))
 #     z=None
-# print("the ans is", z)
+# print("the ans is", z
